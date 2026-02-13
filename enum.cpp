@@ -29,6 +29,7 @@ enum level{
 int main(){
     enum level lv= LOW;
     cout<<lv<<endl;
+    cout<<"git practice"<<endl;
     return 0;
 }
 
